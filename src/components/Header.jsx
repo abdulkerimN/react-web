@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header>
-      <h2>My Website</h2>
+      <h2>React Website</h2>
     </header>
   );
 }
